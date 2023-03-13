@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.33214.272
+VisualStudioVersion = 16.0.33328.57
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TJ-Sushi", "TJ-Sushi\TJ-Sushi.csproj", "{7DBD0849-3F22-41D8-B242-8D07E5A817CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mobilitec-Services", "Mobilitec-Services\Mobilitec-Services.csproj", "{176D635A-5A76-4919-B3E0-86131D57585E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7DBD0849-3F22-41D8-B242-8D07E5A817CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7DBD0849-3F22-41D8-B242-8D07E5A817CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7DBD0849-3F22-41D8-B242-8D07E5A817CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7DBD0849-3F22-41D8-B242-8D07E5A817CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{176D635A-5A76-4919-B3E0-86131D57585E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{176D635A-5A76-4919-B3E0-86131D57585E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{176D635A-5A76-4919-B3E0-86131D57585E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{176D635A-5A76-4919-B3E0-86131D57585E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6EB24200-F937-401E-9CE6-C03D93EA8E43}
+		SolutionGuid = {908D72D9-8EC2-4FDC-8E4D-ADEE586EA947}
 	EndGlobalSection
 EndGlobal
